@@ -9,12 +9,14 @@
 
 # Requisitos:
 
-Composer version 2.7.6
-PHP version 8.2.12 
-Laravel: 10.48.10
-NPM: 10.8.0
-Node Version: v20.13.1
-S.O: Windows 11 
+<ul>
+  <li>Composer version 2.7.6</li>
+  <li>PHP version 8.2.12</li>
+  <li>Laravel: 10.48.10</li>
+  <li>NPM: 10.8.</li>
+  <li>Node Version: v20.13.1</li>
+  <li>S.O: Windows 11 </li>
+</ul>
 
 Aplicación desarrollada con la última versión de XAMPP x64-8.2.12
 
