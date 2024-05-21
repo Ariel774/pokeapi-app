@@ -20,7 +20,7 @@
 
 Aplicación desarrollada con la última versión de XAMPP x64-8.2.12
 
-- INDICACIONES SETUP -
+- INDICACIONES SETUP
 
 1. Clonamos el repositorio desde Github mediante el comando clone
 `git clone https://github.com/Ariel774/pokeapi-app`
