@@ -45,7 +45,7 @@ Luego nos dirigimos hacia la carpeta creada.
 7. Compilamos el front-end
 `npm run dev`
 
-8 Iniciamos el proyecto
+8. Iniciamos el proyecto
 `php artisan serv`
 
 ## Otros ##
