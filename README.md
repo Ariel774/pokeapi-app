@@ -16,6 +16,7 @@
   <li>NPM: 10.8.</li>
   <li>Node Version: v20.13.1</li>
   <li>S.O: Windows 11 </li>
+  <li>Vue: 3.2.37</li>
 </ul>
 
 Aplicación desarrollada con la última versión de XAMPP x64-8.2.12
