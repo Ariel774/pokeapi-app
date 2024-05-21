@@ -24,25 +24,25 @@ Aplicación desarrollada con la última versión de XAMPP x64-8.2.12
 
 1. Clonamos el repositorio desde Github mediante el comando clone
 `git clone https://github.com/Ariel774/pokeapi-app`
-
+Luego nos dirigimos hacia la carpeta creada.
 `cd pokeapi-app`
 
-3. Instalamos las dependencias de Composer:
+2. Instalamos las dependencias de Composer:
 `composer install`
 
-4. Instalamos las dependencias de Node.js:
+3. Instalamos las dependencias de Node.js:
 `npm install`
 
-5. Renombramos el archivo env_example:
+4. Renombramos el archivo env_example:
 `cp env_example .env`
 
-6. Generamos la clave de la aplicación
+5. Generamos la clave de la aplicación
 `php artisan key:generate`
 
-7. Migramos la base de datos (Importante actualizar el usuario y contraseña para que se asigne a la base de datos, en mi caso utilize la que viene por defecto en PHPMyAdmin)
+6. Migramos la base de datos (Importante actualizar el usuario y contraseña para que se asigne a la base de datos, en mi caso utilize la que viene por defecto en PHPMyAdmin)
 `php artisan migrate`
 
-8. Compilamos el front-end
+7. Compilamos el front-end
 `npm run dev`
 
 8 Iniciamos el proyecto
